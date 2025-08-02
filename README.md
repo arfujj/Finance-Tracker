@@ -10,6 +10,7 @@ steps to run
 3. Create `.env.local` file in **root** directory.
 4. Contents of `.env.local`:
 5. 'npm install' and then 'npm run dev'
+6. Make sure to save.
 
 ```env
 # .env.local
